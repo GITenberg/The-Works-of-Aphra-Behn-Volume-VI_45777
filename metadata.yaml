@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '9866'
     url: http://www.gutenberg.org/2009/agents/9866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45777#The-Works-of-Aphra-Behn-Volume-VI
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
